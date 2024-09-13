@@ -16,5 +16,5 @@
 
 ## Как запустить проект
 1. Клонируйте репозиторий:  
-   `git clone https://github.com/sencheele/lagoona.git`
+   `git clone https://github.com/sencheele/euclid.git`
 2. Откройте файл `index.html` в любом современном браузере.
